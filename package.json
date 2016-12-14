@@ -10,5 +10,6 @@
 		"pegjs":"x.x",
 		"hapi":"x.x",
 		"inert":"x.x"
+		"lodash":"x.x"
 	}
 }
